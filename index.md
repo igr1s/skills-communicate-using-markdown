@@ -13,3 +13,6 @@ Learning how to communicate using markdown because im cool like that
 ``` javascript
 let me = 'do it for you';
 ```
+- [ ] Turn on GitHub Page
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
